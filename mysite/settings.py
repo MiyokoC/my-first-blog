@@ -25,7 +25,7 @@ SECRET_KEY = 'i0*m)#ub3ndbg!8e!l@6($x*x=h3_nm6p-vdtnf&!)2)u+ra2u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','Miyoko.pythonaywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','Miyoko.pythonanywhere.com']
 
 
 # Application definition
